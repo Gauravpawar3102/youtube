@@ -1,7 +1,7 @@
-import { ArrowDropDown } from "@material-ui/icons";
-import React from "react";
-import Recommendation from "../recommendation/Recommendation";
-import "./rightbar.css";
+import { ArrowDropDown } from '@material-ui/icons';
+import React from 'react';
+import Recommendation from '../recommendation/Recommendation';
+import './rightbar.css';
 
 export default function Rightbar() {
   return (

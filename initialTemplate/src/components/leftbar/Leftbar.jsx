@@ -10,10 +10,10 @@ import {
   ScheduleOutlined,
   Settings,
   ShoppingBasketOutlined,
-} from "@material-ui/icons";
-import React from "react";
-import MenuLink from "../menuLink/MenuLink";
-import "./leftbar.css";
+} from '@material-ui/icons';
+import React from 'react';
+import MenuLink from '../menuLink/MenuLink';
+import './leftbar.css';
 
 export default function Leftbar() {
   return (
